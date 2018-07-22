@@ -15,7 +15,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="887">
+            <state relative-caret-position="484">
               <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <element signature="e#1090#1091#0" expanded="true" />
@@ -83,7 +83,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InheritanceChallenge" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Encapsulation" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,16 +139,15 @@
       <workItem from="1528787649002" duration="3970000" />
       <workItem from="1531797456008" duration="4121000" />
       <workItem from="1531823205017" duration="1101000" />
-      <workItem from="1531903142789" duration="2663000" />
+      <workItem from="1531903142789" duration="3409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11855000" />
+    <option name="totallyTimeSpent" value="12601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -235,7 +234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
+        <state relative-caret-position="484">
           <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="e#1090#1091#0" expanded="true" />

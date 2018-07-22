@@ -12,6 +12,7 @@ public class PC {
     }
 
     public void powerUp() {
+        // 改为theCase能够直接访问，不用get
         theCase.pressPowerButton();
         drawLogo();
     }

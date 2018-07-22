@@ -1,6 +1,7 @@
 package com.shile;
 
 public class Vehicle {
+    // field
     private String name;
     private String size;
     private int currentVelocity;

@@ -19,8 +19,6 @@ public class Lamp {
         return style;
     }
 
-        return battery;
-    }
 
     public int getPowerRating() {
         return powerRating;

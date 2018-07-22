@@ -9,6 +9,7 @@ public class Printer {
         if (tonerLevel > -1 && tonerLevel <= 100) {
             this.tonerLevel = tonerLevel;
         } else {
+            // 经常这样设置
             this.tonerLevel = -1;
         }
 

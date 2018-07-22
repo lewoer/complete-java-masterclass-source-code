@@ -4,6 +4,7 @@ public class Outlander extends Car{
     private int roadServiceMonths;
 
     public Outlander(int roadServiceMonths) {
+        // 不需要那么多的参数，直接初始化。
         super("Outlander", "4WD", 5, 5, 6, false);
         this.roadServiceMonths = roadServiceMonths;
     }
