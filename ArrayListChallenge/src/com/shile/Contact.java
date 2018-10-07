@@ -18,7 +18,7 @@ public class Contact {
     }
 
     public static Contact createContact(String name, String phoneNumber) {
-        // 直接调用构造器创造新对象
         return new Contact(name, phoneNumber);
     }
 }
+

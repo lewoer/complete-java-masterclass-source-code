@@ -1,39 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="581e5c3c-4463-4bf1-a979-1d5461d1170d" name="Default" comment="" />
+    <list default="true" id="581e5c3c-4463-4bf1-a979-1d5461d1170d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/shile/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/shile/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shile/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shile/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shile/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shile/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/out/production/MinmumElementChallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/out/production/MinmumElementChallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/ReverseArraychallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/out/production/untitled104/com/shile/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/untitled104.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-216807390">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="126" column="19" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
+            <state relative-caret-position="823">
+              <caret line="134" column="44" lean-forward="true" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shile/MobilePhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding>
-                <element signature="e#4755#4756#0" expanded="true" />
-                <element signature="e#4818#4819#0" expanded="true" />
+                <element signature="docComment;class#MobilePhone#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MobilePhone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shile/MobilePhone.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shile/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-              <folding>
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -47,12 +104,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queryContact</find>
+      <find>query</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/shile/Contacts.java" />
-        <option value="$PROJECT_DIR$/src/com/shile/MobilePhone.java" />
         <option value="$PROJECT_DIR$/src/com/shile/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Contact.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/MobilePhone.java" />
       </list>
     </option>
   </component>
@@ -62,22 +129,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
-    <option name="y" value="23" />
+    <option name="x" value="271" />
+    <option name="y" value="16" />
     <option name="width" value="1278" />
     <option name="height" value="691" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,12 +163,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoboxAndUnboxChallenge" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,21 +192,9 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
@@ -158,74 +212,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532258845802</updated>
-      <workItem from="1532258848048" duration="12220000" />
+      <workItem from="1532258848048" duration="13783000" />
+      <workItem from="1532277218461" duration="1105000" />
+      <workItem from="1532306838960" duration="1784000" />
+      <workItem from="1538897964421" duration="3544000" />
+      <workItem from="1538903810873" duration="9894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12220000" />
+    <option name="totallyTimeSpent" value="30110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3290938" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info id="Image Layers" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32869694" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24963397" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3290938" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.25718608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3290938" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.39712557" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Run" order="9" weight="0.32869694" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24963397" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3290938" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3290938" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3290938" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.2375189" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,34 +294,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/Contacts.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Contacts.java" />
+    <entry file="file://$USER_HOME$/Desktop/timbuchalka/Contact.java" />
+    <entry file="file://$USER_HOME$/Desktop/timbuchalka/MobilePhone.java" />
+    <entry file="file://$USER_HOME$/Desktop/timbuchalka/Main.java" />
+    <entry file="jar://E:/java/jdk/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="186">
+          <caret line="486" column="66" lean-forward="true" selection-start-line="486" selection-start-column="66" selection-end-line="486" selection-end-column="66" />
+          <folding>
+            <element signature="e#11124#11468#0" expanded="true" />
+            <element signature="e#15638#15896#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/MobilePhone.java">
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        <state relative-caret-position="560">
+          <caret line="796" column="4" lean-forward="true" selection-start-line="796" selection-start-column="4" selection-end-line="796" selection-end-column="4" />
           <folding>
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#22955#23387#0" expanded="true" />
+            <element signature="e#27149#27409#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="126" column="19" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
+        <state relative-caret-position="823">
+          <caret line="134" column="44" lean-forward="true" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding>
-            <element signature="e#4755#4756#0" expanded="true" />
-            <element signature="e#4818#4819#0" expanded="true" />
+            <element signature="docComment;class#MobilePhone#0" expanded="true" />
           </folding>
         </state>
       </provider>
