@@ -7,16 +7,18 @@ import java.util.ArrayList;
  * Revised by Tim on 4th Feb 2018.
  */
 public class MobilePhone {
+    // mynumber 是在main中进行初始化
     private String myNumber;
     private ArrayList<Contact> myContacts;
 
     public MobilePhone(String myNumber) {
         this.myNumber = myNumber;
+        // 一般在构造器中初始化
         this.myContacts = new ArrayList<Contact>();
     }
 
     public boolean addNewContact(Contact contact) {
-        if(findContact(contact.getName()) >=0) {
+        if (findContact(contact.getName()) >= 0) {
             System.out.println("Contact is already on file");
             return false;
         }
@@ -28,13 +30,13 @@ public class MobilePhone {
 
     public boolean updateContact(Contact oldContact, Contact newContact) {
         int foundPosition = findContact(oldContact);
-        if(foundPosition <0) {
-            System.out.println(oldContact.getName() +", was not found.");
+        if (foundPosition < 0) {
+            System.out.println(oldContact.getName() + ", was not found.");
             return false;
-        } else if(findContact(newContact.getName()) != -1) {
+        } else if (findContact(newContact.getName()) != -1) {
             System.out.println("Contact with name " + newContact.getName() +
                     " already exists.  Update was not successful.");
-            return false;z
+            return false;
         }
 
         this.myContacts.set(foundPosition, newContact);
@@ -44,8 +46,8 @@ public class MobilePhone {
 
     public boolean removeContact(Contact contact) {
         int foundPosition = findContact(contact);
-        if(foundPosition <0) {
-            System.out.println(contact.getName() +", was not found.");
+        if (foundPosition < 0) {
+            System.out.println(contact.getName() + ", was not found.");
             return false;
         }
         this.myContacts.remove(foundPosition);
@@ -58,9 +60,9 @@ public class MobilePhone {
     }
 
     private int findContact(String contactName) {
-        for(int i=0; i<this.myContacts.size(); i++) {
+        for (int i = 0; i < this.myContacts.size(); i++) {
             Contact contact = this.myContacts.get(i);
-            if(contact.getName().equals(contactName)) {
+            if (contact.getName().equals(contactName)) {
                 return i;
             }
         }
@@ -68,7 +70,7 @@ public class MobilePhone {
     }
 
     public String queryContact(Contact contact) {
-        if(findContact(contact) >=0) {
+        if (findContact(contact) >= 0) {
             return contact.getName();
         }
         return null;
@@ -76,7 +78,7 @@ public class MobilePhone {
 
     public Contact queryContact(String name) {
         int position = findContact(name);
-        if(position >=0) {
+        if (position >= 0) {
             return this.myContacts.get(position);
         }
 
@@ -85,8 +87,8 @@ public class MobilePhone {
 
     public void printContacts() {
         System.out.println("Contact List");
-        for(int i=0; i<this.myContacts.size(); i++) {
-            System.out.println((i+1) + "." +
+        for (int i = 0; i < this.myContacts.size(); i++) {
+            System.out.println((i + 1) + "." +
                     this.myContacts.get(i).getName() + " -> " +
                     this.myContacts.get(i).getPhoneNumber());
         }

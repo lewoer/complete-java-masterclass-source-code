@@ -8,12 +8,13 @@ public class Customer {
 
     public Customer(String name, double initialAmount) {
         this.name = name;
+        // 必须对交易进行初始化
         this.transactions = new ArrayList<Double>();
         addTransaction(initialAmount);
     }
 
     public void addTransaction(double amount) {
-        // boxing
+        // autoboxing
         this.transactions.add(amount);
     }
 

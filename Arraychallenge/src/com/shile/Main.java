@@ -19,7 +19,7 @@ public class Main {
         // and sortIntegers should sort the array and return a new array containing the sorted numbers
         // you will have to figure out how to copy the array elements from the passed array into a new
         // array and sort them and return the new sorted array.
-
+        //
         int[] myIntegers = getIntegers(5);
         int[] sorted = sortIntegers(myIntegers);
         printArray(sorted);
@@ -39,15 +39,12 @@ public class Main {
     public static void printArray(int[] array) {
 
         for (int i=0; i<array.length; i++) {
-            System.out.println("element " + "i" + " content " + array[i]);
+            System.out.println("element " + i + " content " + array[i]);
         }
     }
     public static int[] sortIntegers(int[] array) {
 
-//        int[] sortedArray = new int[array.length];
-//        for (int i=0; i<array.length; i++) {
-//            sortedArray[i] = array[i];
-//        }
+        // 复制数组是为了故障安全。
         int[] sortedArray = Arrays.copyOf(array, array.length);
 
         boolean flag = true;
@@ -55,16 +52,15 @@ public class Main {
         while(flag) {
             flag = false;
             for (int i=0; i<sortedArray.length - 1; i++) {
+                // i<sortedArray.length -1是为了防止数组index超出。
                 if (sortedArray[i] < sortedArray[i+1]) {
                     temp = sortedArray[i];
                     sortedArray[i] = sortedArray[i+1];
                     sortedArray[i+1] = temp;
-                    flag = true;
+                    flag = true;  // 设置为true保障了循环。
                 }
             }
         }
         return sortedArray;
     }
-
-
 }

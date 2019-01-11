@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c562cdb5-35fe-4ef0-8e70-ace6b4e2d611" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/AbstractClassChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/shile/Accessable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/shile/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/com/shile/MapProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/com/shile/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/ExtendPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/SIBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/libraries/PackageDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/src/com/shile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/artifacts/PackageChallenge_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/src/com/shile/mylibrary/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/src/com/shile/ScopeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/ScopeChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/libraries/PackageChallenge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/SetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/Static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinDemo/src/com/example/awtSample/MyWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2095995409">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5069" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5069" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk/src.zip!/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="820" column="31" selection-start-line="820" selection-start-column="31" selection-end-line="820" selection-end-column="31" />
+              <folding>
+                <element signature="e#27149#27409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="2993" column="55" selection-start-line="2993" selection-start-column="55" selection-end-line="2993" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3700#3747#0" expanded="true" />
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="e#36466#37047#0" expanded="true" />
+                <element signature="e#56521#57047#0" expanded="true" />
+                <element signature="e#117491#117847#0" expanded="true" />
+                <element signature="e#117893#117894#0" expanded="true" />
+                <element signature="e#117955#117956#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shile/Planet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shile/SetChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>quals</find>
+      <find>hash</find>
+      <find>instanceof</find>
+      <find>BodyTypes</find>
+      <find>body.getName()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>temp.getKey()</replace>
+      <replace>body.getKey()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/shile/Challenge.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/DogMain.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Labrador.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/SetMain.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/DwarfPlanet.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Moon.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/HeavenlyBody.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/SetChallenge.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/Planet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="24" />
+    <option name="y" value="23" />
+    <option name="width" value="1278" />
+    <option name="height" value="691" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SetAndHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SetAndHashSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SetAndHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SetAndHashSet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SetAndHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SetAndHashSet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546497154873" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.DogMain" />
+      <module name="SetAndHashSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.Main" />
+      <module name="SetAndHashSet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.SetMain" />
+      <module name="SetAndHashSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DogMain" />
+      <item itemvalue="Application.SetMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SetMain" />
+        <item itemvalue="Application.DogMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c562cdb5-35fe-4ef0-8e70-ace6b4e2d611" name="Default Changelist" comment="" />
+      <created>1546349695305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546349695305</updated>
+      <workItem from="1546349714571" duration="6217000" />
+      <workItem from="1546414531308" duration="24264000" />
+      <workItem from="1546492042416" duration="3817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34298000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.0" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Run" order="9" weight="0.09984872" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/shile/DogMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="docComment;class#Challenge#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="346" column="4" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
+          <folding>
+            <element signature="e#13235#14032#0" expanded="true" />
+            <element signature="e#14073#14074#0" expanded="true" />
+            <element signature="e#14114#14115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="3793" column="58" selection-start-line="3793" selection-start-column="52" selection-end-line="3793" selection-end-column="58" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.937.797/HZ$D.937.798/src/com/timbuchalka/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.937.797/HZ$D.937.799/src/com/timbuchalka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/SetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#SetMain#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/DwarfPlanet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Moon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.397.3439/HZ$D.397.3441/src/com/timbuchalka/Moon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.397.3439/HZ$D.397.3442/src/com/timbuchalka/Labrador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="docComment;class#Labrador#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Labrador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="91" column="35" lean-forward="true" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#HeavenlyBody#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#2194#2195#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.397.3439/HZ$D.397.3443/src/com/timbuchalka/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.397.3439/HZ$D.397.3440/src/com/timbuchalka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.397.3439/HZ$D.397.3444/src/com/timbuchalka/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="2993" column="55" selection-start-line="2993" selection-start-column="55" selection-end-line="2993" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3700#3747#0" expanded="true" />
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#36466#37047#0" expanded="true" />
+            <element signature="e#56521#57047#0" expanded="true" />
+            <element signature="e#117491#117847#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="820" column="31" selection-start-line="820" selection-start-column="31" selection-end-line="820" selection-end-column="31" />
+          <folding>
+            <element signature="e#27149#27409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/SetChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SetAndHashSet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

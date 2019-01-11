@@ -9,7 +9,6 @@ public class Branch {
     public Branch(String name) {
         this.name = name;
         this.customers = new ArrayList<Customer>();
-
     }
 
     public String getName() {
@@ -25,7 +24,6 @@ public class Branch {
             this.customers.add(new Customer(customName, initialAmount));
             return true;
         }
-
         return false;
     }
 

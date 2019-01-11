@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108bdeea-9282-432f-90bf-4636e77196dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2016140428">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Album.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Song.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="24" />
+    <option name="y" value="23" />
+    <option name="width" value="1278" />
+    <option name="height" value="691" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InnerClassChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerClassChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InnerClassChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InnerClassChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedListChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LinkedListChallenge" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108bdeea-9282-432f-90bf-4636e77196dc" name="Default Changelist" comment="" />
+      <created>1544863623380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544863623380</updated>
+      <workItem from="1544863628566" duration="36000" />
+      <workItem from="1544863753407" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="525000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.32869694" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListChallenge/src/com/shile/Album.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
