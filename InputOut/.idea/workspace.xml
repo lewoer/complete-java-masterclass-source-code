@@ -2,89 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68b7b4f1-0d94-4086-a38d-9525bec40c2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/AbstractClassChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/shile/Accessable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifier/src/com/shile/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/src/com/shile/MapProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/src/com/shile/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions/Exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exceptions/src/com/shile/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/ExtendPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final/src/com/shile/SIBTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/libraries/PackageDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest/src/com/shile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/shile/Locations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/shile/TestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/artifacts/PackageChallenge_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackageChallenge/src/com/shile/mylibrary/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/src/com/shile/ScopeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/ScopeChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/libraries/PackageChallenge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/DogMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/DwarfPlanet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/HeavenlyBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/SetChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/shile/SetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/shile/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/shile/MainChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/shile/StockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/shile/StockList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static/Static.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WinDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WinDemo/src/com/example/awtSample/MyWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/com/shile/MobilePhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/shile/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/out/production/Arraychallenge/com/shile/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arraychallenge/src/com/shile/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Branch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/out/production/AutoboxAndUnboxChallenge/com/shile/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxAndUnboxChallenge/src/com/shile/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LIstAndArayLIst/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/shile/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/shile/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinmumElementChallenge/src/com/shile/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseArraychallenge/src/com/shile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/IndexRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/CopyBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/CopyCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/CopyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/DataStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/ObjectStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shile/ScanXan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Locations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/src/com/shile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,138 +32,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shile/ShiftInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding>
-                <element signature="docComment;class#ShiftInt#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3640">
-              <caret line="2591" column="46" selection-start-line="2591" selection-start-column="46" selection-end-line="2591" selection-end-column="46" />
-              <folding>
-                <element signature="e#75665#76604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shile/Locations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+            <state relative-caret-position="578">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#Locations#0" expanded="true" />
+                <element signature="e#5481#5482#0" expanded="true" />
                 <element signature="e#5520#5521#0" expanded="true" />
+                <element signature="e#5566#5567#0" expanded="true" />
                 <element signature="e#5608#5609#0" expanded="true" />
+                <element signature="e#5668#5669#0" expanded="true" />
                 <element signature="e#5717#5718#0" expanded="true" />
+                <element signature="e#5781#5782#0" expanded="true" />
                 <element signature="e#5834#5835#0" expanded="true" />
+                <element signature="e#5887#5888#0" expanded="true" />
                 <element signature="e#5928#5929#0" expanded="true" />
+                <element signature="e#5998#5999#0" expanded="true" />
                 <element signature="e#6046#6047#0" expanded="true" />
+                <element signature="e#6102#6103#0" expanded="true" />
                 <element signature="e#6146#6147#0" expanded="true" />
+                <element signature="e#6364#6365#0" expanded="true" />
                 <element signature="e#6405#6406#0" expanded="true" />
+                <element signature="e#6463#6464#0" expanded="true" />
                 <element signature="e#6504#6505#0" expanded="true" />
+                <element signature="e#6573#6574#0" expanded="true" />
                 <element signature="e#6616#6617#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://E:/java/jdk/src.zip!/java/io/ObjectOutputStream.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/jdk/src.zip!/java/io/FileInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="docComment;class#ObjectOutputStream#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="134" column="26" lean-forward="true" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk/src.zip!/java/lang/Throwable.java">
+        <entry file="file://$PROJECT_DIR$/locations.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="371" column="6" lean-forward="true" selection-start-line="371" selection-start-column="6" selection-end-line="371" selection-end-column="6" />
-              <folding>
-                <element signature="e#15711#15712#0" expanded="true" />
-                <element signature="e#15747#15748#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="878">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk/src.zip!/java/io/BufferedOutputStream.java">
+        <entry file="jar://E:/java/jdk/src.zip!/java/io/FileDescriptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+            <state relative-caret-position="-100">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#1188#1189#0" expanded="true" />
-                <element signature="e#1219#1220#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/shile/Location.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1621#1622#0" expanded="true" />
-                <element signature="e#1687#1688#0" expanded="true" />
-                <element signature="e#1749#1750#0" expanded="true" />
-                <element signature="e#1794#1795#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk/src.zip!/java/util/RandomAccess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-              <folding>
-                <element signature="docComment;class#RandomAccess#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/jdk/src.zip!/java/io/RandomAccessFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-              <folding>
-                <element signature="e#11131#11910#0" expanded="true" />
+                <element signature="docComment;method#FileDescriptor#0;class#FileDescriptor#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -258,6 +113,8 @@
       <find>foreach</find>
       <find>sort</find>
       <find>offse</find>
+      <find>readline</find>
+      <find>filedesc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -275,6 +132,13 @@
         <option value="$PROJECT_DIR$/src/com/shile/ShiftInt.java" />
         <option value="$PROJECT_DIR$/src/com/shile/Locations.java" />
         <option value="$PROJECT_DIR$/src/com/shile/Location.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/CopyBytes.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/CopyCharacters.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/CopyLine.java" />
+        <option value="$PROJECT_DIR$/xanadu.txt" />
+        <option value="$PROJECT_DIR$/src/com/shile/ScanXan.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/DataStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shile/ObjectStream.java" />
       </list>
     </option>
   </component>
@@ -298,20 +162,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InputOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InputOut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InputOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InputOut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InputOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InputOut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547114803321" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdventureRandom" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548168580346" />
+    <property name="last_opened_file_path" value="G:/" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/shile/Locations.java" />
   </component>
   <component name="RunDashboard">
@@ -326,9 +211,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Locations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shile.Locations" />
+  <component name="RunManager" selected="Application.ObjectStream">
+    <configuration name="CopyCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.CopyCharacters" />
       <module name="InputOut" />
       <extension name="coverage">
         <pattern>
@@ -340,18 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.shile.Main" />
-      <module name="InputOut" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShiftInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shile.ShiftInt" />
+    <configuration name="CopyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.CopyLine" />
       <module name="InputOut" />
       <extension name="coverage">
         <pattern>
@@ -363,8 +238,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shile.TestException" />
+    <configuration name="DataStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.DataStreamTest" />
+      <module name="InputOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.ObjectStream" />
+      <module name="InputOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScanXan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shile.ScanXan" />
       <module name="InputOut" />
       <extension name="coverage">
         <pattern>
@@ -377,17 +278,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Locations" />
-      <item itemvalue="Application.ShiftInt" />
-      <item itemvalue="Application.TestException" />
+      <item itemvalue="Application.CopyCharacters" />
+      <item itemvalue="Application.CopyLine" />
+      <item itemvalue="Application.ScanXan" />
+      <item itemvalue="Application.DataStreamTest" />
+      <item itemvalue="Application.ObjectStream" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Locations" />
-        <item itemvalue="Application.ShiftInt" />
-        <item itemvalue="Application.TestException" />
+        <item itemvalue="Application.ObjectStream" />
+        <item itemvalue="Application.DataStreamTest" />
+        <item itemvalue="Application.ScanXan" />
+        <item itemvalue="Application.CopyLine" />
+        <item itemvalue="Application.CopyCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -407,22 +310,27 @@
       <workItem from="1546871307626" duration="5608000" />
       <workItem from="1546916834952" duration="5811000" />
       <workItem from="1547107371388" duration="7058000" />
+      <workItem from="1547887203970" duration="9912000" />
+      <workItem from="1548072657115" duration="7319000" />
+      <workItem from="1548163008076" duration="5786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54046000" />
+    <option name="totallyTimeSpent" value="77063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13348417" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21719457" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Dependency Viewer" weight="0.32874617" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32874617" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
@@ -446,7 +354,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Maven" order="9" weight="0.3295626" />
       <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50152904" side_tool="true" weight="0.44268477" />
-      <window_info anchor="right" id="Run" order="11" sideWeight="0.49847096" weight="0.25791857" />
+      <window_info anchor="right" id="Run" order="11" sideWeight="0.49847096" weight="0.34464556" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -486,68 +394,195 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="docComment;class#ObjectOutputStream#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#1188#1189#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="e#11131#11910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#RandomAccess#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="371" column="6" selection-start-line="371" selection-start-column="6" selection-end-line="371" selection-end-column="6" />
+          <folding>
+            <element signature="e#15711#15712#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="2591" column="46" selection-start-line="2591" selection-start-column="46" selection-end-line="2591" selection-end-column="46" />
+          <folding>
+            <element signature="e#75665#76604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/ShiftInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;class#ShiftInt#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outagain.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://E:/java/jdk/src.zip!/java/io/InputStreamReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        <state relative-caret-position="-199">
+          <caret line="63" column="35" lean-forward="true" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/characteroutput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/CopyCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/CopyBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#CopyBytes#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locations_big.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xanadu.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="290" selection-start-column="290" selection-end-column="290" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/java/jdk/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Readable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shile/ScanXan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="1087" column="25" lean-forward="true" selection-start-line="1087" selection-start-column="25" selection-end-line="1087" selection-end-column="25" />
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
-            <element signature="e#21196#21197#0" expanded="true" />
-            <element signature="e#21278#21279#0" expanded="true" />
-            <element signature="e#55488#56155#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shile/DataStreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        <state relative-caret-position="529">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.054.945/HZ$D.054.947/src/com/timbuchalka/Location.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.054.945/HZ$D.054.946/src/com/timbuchalka/Locations.java" />
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="jar://E:/java/jdk/src.zip!/java/util/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="15575">
+          <caret line="1657" column="28" selection-start-line="1657" selection-start-column="28" selection-end-line="1657" selection-end-column="28" />
+          <folding>
+            <element signature="docComment;class#Calendar#0" expanded="true" />
+            <element signature="e#65067#65348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/CopyLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding>
+            <element signature="docComment;class#CopyLine#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/java/jdk/src.zip!/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-875">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="5900">
+          <caret line="381" column="42" selection-start-line="381" selection-start-column="42" selection-end-line="381" selection-end-column="42" />
           <folding>
             <element signature="docComment;class#BufferedReader#0" expanded="true" />
+            <element signature="docComment;method#BufferedReader#1;class#BufferedReader#0" expanded="true" />
             <element signature="e#3011#3012#0" expanded="true" />
             <element signature="e#3058#3059#0" expanded="true" />
             <element signature="docComment;method#readLine#0;class#BufferedReader#0" expanded="true" />
@@ -555,163 +590,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directions.txt">
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/PrintWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9052">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/directions_big.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.523.3902/HZ$D.523.3903/src/com/timbuchalka/ShiftInt.java" />
-    <entry file="jar://E:/java/jdk/src.zip!/java/text/Format.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
+        <state relative-caret-position="850">
+          <caret line="97" column="7" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
           <folding>
-            <element signature="docComment;method#Field#0;class#Field#0;class#Format#0" expanded="true" />
+            <element signature="docComment;class#PrintWriter#0" expanded="true" />
+            <element signature="e#2574#2711#0" expanded="true" />
+            <element signature="e#2748#2749#0" expanded="true" />
+            <element signature="e#2780#2781#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locations_big.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.3476/locations.dat" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.3472/HZ$D.684.3477/src/com/timbuchalka/Main.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.3472/HZ$D.684.3473/src/com/timbuchalka/Locations.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.684.3472/HZ$D.684.3479/src/com/timbuchalka/Locations.java" />
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Object.java">
+    <entry file="jar://E:/java/jdk/src.zip!/java/math/BigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state relative-caret-position="400">
+          <caret line="213" column="31" selection-start-line="213" selection-start-column="31" selection-end-line="213" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/IOException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/logging/LoggingMXBean.java">
+    <entry file="file://$PROJECT_DIR$/src/com/shile/ObjectStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
-            <element signature="docComment;method#getLoggerLevel#0;class#LoggingMXBean#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/logging/Handler.java">
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/Closeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="47" />
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/StackTraceElement.java">
+    <entry file="uml://JAVA/java.io.ObjectInputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.ObjectInputStream</OriginalElement>
+          <nodes>
+            <node x="211.0" y="80.0">java.io.Closeable</node>
+            <node x="185.0" y="240.0">java.io.ObjectInputStream</node>
+            <node x="380.0" y="80.0">java.io.DataInput</node>
+            <node x="343.0" y="160.0">java.io.ObjectInput</node>
+            <node x="251.375" y="0.0">java.lang.AutoCloseable</node>
+            <node x="0.0" y="160.0">java.io.ObjectStreamConstants</node>
+            <node x="204.0" y="160.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectStreamConstants">
+              <point x="-52.33333333333334" y="-15.0" />
+              <point x="211.16666666666666" y="215.0" />
+              <point x="92.0" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectInput">
+              <point x="52.333333333333314" y="-15.0" />
+              <point x="315.8333333333333" y="215.0" />
+              <point x="401.0" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInput" target="java.io.DataInput">
+              <point x="29.0" y="-15.0" />
+              <point x="430.0" y="135.0" />
+              <point x="432.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.0" />
+              <point x="263.5" y="55.0" />
+              <point x="284.375" y="55.0" />
+              <point x="-33.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInput" target="java.lang.AutoCloseable">
+              <point x="-29.0" y="-15.0" />
+              <point x="372.0" y="135.0" />
+              <point x="369.5" y="135.0" />
+              <point x="369.5" y="55.0" />
+              <point x="350.375" y="55.0" />
+              <point x="33.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.5" y="74.0" />
+          <SelectedNodes>
+            <node>java.io.ObjectInput</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="212" column="39" lean-forward="true" selection-start-line="212" selection-start-column="39" selection-end-line="212" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/ObjectInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.DataInput">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.DataInput</OriginalElement>
+          <nodes>
+            <node x="" y="">java.io.DataInput</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="52.5" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/DataInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <caret line="148" column="15" selection-start-line="148" selection-start-column="15" selection-end-line="148" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shile/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
-            <element signature="docComment;class#StackTraceElement#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/EOFException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="docComment;method#EOFException#1;class#EOFException#0" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/com.shile.Locations">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.shile.Locations</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.util.Map</node>
+            <node x="37.0" y="656.0">com.shile.Locations</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.shile.Locations" target="java.util.Map">
+              <point x="0.0" y="-165.0" />
+              <point x="0.0" y="303.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-227.5" y="474.0" />
+          <SelectedNodes>
+            <node>com.shile.Locations</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/logging/Logging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="27" />
-          <folding>
-            <element signature="docComment;class#Logging#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="477" column="18" selection-start-line="477" selection-start-column="18" selection-end-line="477" selection-end-column="18" />
-          <folding>
-            <element signature="docComment;method#sort#0;class#List#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11675">
-          <caret line="1437" column="27" selection-start-line="1437" selection-start-column="27" selection-end-line="1437" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/TimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2075">
-          <caret line="193" column="4" selection-start-line="193" selection-start-column="4" selection-end-line="193" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;method#sort#0;class#TimSort#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/ComparableTimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2425">
-          <caret line="333" column="18" selection-start-line="333" selection-start-column="15" selection-end-line="333" selection-end-column="18" />
-          <folding>
-            <element signature="docComment;field#modCount#0;class#AbstractList#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
-          <folding>
-            <element signature="docComment;class#Iterable#0" expanded="true" />
-            <element signature="docComment;method#forEach#0;class#Iterable#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Integer.java">
+    <entry file="file://F:/exploredownload/nio-src/nio/CopyFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="62" column="60" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/java/jdk/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="194" column="19" selection-start-line="194" selection-start-column="19" selection-end-line="194" selection-end-column="19" />
+        <state relative-caret-position="78">
+          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#ArrayList#0" expanded="true" />
@@ -727,188 +805,1635 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/TestException.java">
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="125">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="134.0" y="240.0">java.util.RandomAccess</node>
+            <node x="242.25" y="160.0">java.util.AbstractCollection</node>
+            <node x="476.0" y="240.0">java.lang.Cloneable</node>
+            <node x="415.25" y="160.0">java.util.List</node>
+            <node x="336.70000000000005" y="80.0">java.util.Collection</node>
+            <node x="290.0" y="240.0">java.util.AbstractList</node>
+            <node x="342.7" y="0.0">java.lang.Iterable</node>
+            <node x="0.0" y="240.0">java.io.Serializable</node>
+            <node x="298.5" y="320.0">java.util.ArrayList</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="39.19999999999999" y="-15.0" />
+              <point x="386.7" y="300.0" />
+              <point x="529.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="-19.600000000000023" y="-15.0" />
+              <point x="327.9" y="290.0" />
+              <point x="202.0" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="-39.19999999999999" y="-15.0" />
+              <point x="308.3" y="300.0" />
+              <point x="57.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="448.75" y="135.0" />
+              <point x="415.45000000000005" y="135.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="28.75" y="-15.0" />
+              <point x="376.25" y="215.0" />
+              <point x="432.0" y="215.0" />
+              <point x="-16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="-2.8421709430404007E-14" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-28.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="19.600000000000023" y="-15.0" />
+              <point x="367.1" y="290.0" />
+              <point x="465.5" y="290.0" />
+              <point x="16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="318.75" y="135.0" />
+              <point x="362.95000000000005" y="135.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="12.0" y="215.0" />
+          <SelectedNodes>
+            <node>java.util.ArrayList</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/rt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>rt</OriginalElement>
+          <nodes>
+            <node x="" y="">rt</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="20.5" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.Writer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.Writer</OriginalElement>
+          <nodes>
+            <node x="138.5" y="80.0">java.lang.Appendable</node>
+            <node x="13.5" y="80.0">java.io.Closeable</node>
+            <node x="156.0" y="160.0">java.io.Writer</node>
+            <node x="0.0" y="0.0">java.lang.AutoCloseable</node>
+            <node x="277.5" y="80.0">java.io.Flushable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.Writer" target="java.io.Closeable">
+              <point x="-28.0" y="-15.0" />
+              <point x="170.0" y="135.0" />
+              <point x="66.0" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.io.Flushable">
+              <point x="28.0" y="-15.0" />
+              <point x="226.0" y="135.0" />
+              <point x="328.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.lang.Appendable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-89.0" y="34.0" />
+          <SelectedNodes>
+            <node>java.io.Writer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io</OriginalElement>
+          <nodes>
+            <node x="2370.375" y="290.0">java.io.RandomAccessFile</node>
+            <node x="2847.375" y="290.0">java.io.BufferedInputStream</node>
+            <node x="3277.0" y="445.0">java.io.SerialCallbackContext</node>
+            <node x="4556.235160818714" y="200.0">java.io.CharArrayReader</node>
+            <node x="2020.375" y="290.0">java.io.ObjectOutput</node>
+            <node x="3036.375" y="290.0">java.io.PushbackInputStream</node>
+            <node x="2516.4851608187137" y="370.0">java.io.ObjectInputStream</node>
+            <node x="4868.235160818714" y="200.0">java.io.FilterReader</node>
+            <node x="3326.448684210526" y="290.0">java.io.LineNumberInputStream</node>
+            <node x="1625.0" y="290.0">java.io.DataOutputStream</node>
+            <node x="3143.2351608187137" y="200.0">java.io.ByteArrayInputStream</node>
+            <node x="3496.2351608187137" y="200.0">java.io.PipedInputStream</node>
+            <node x="2057.0" y="545.0">java.io.FilePermission</node>
+            <node x="809.0000000000001" y="735.0">java.io.InvalidObjectException</node>
+            <node x="4087.0" y="445.0">java.io.StreamTokenizer</node>
+            <node x="3694.0" y="445.0">java.io.ObjectStreamField</node>
+            <node x="0.0" y="200.0">java.io.PrintWriter</node>
+            <node x="212.0" y="735.0">java.io.StreamCorruptedException</node>
+            <node x="2866.0" y="525.0">java.io.WinNTFileSystem</node>
+            <node x="2693.0" y="545.0">java.io.Externalizable</node>
+            <node x="3058.0" y="445.0">java.io.ObjectInputValidation</node>
+            <node x="4242.735160818714" y="290.0">java.io.LineNumberReader</node>
+            <node x="1563.1518274853802" y="200.0">java.io.FilterOutputStream</node>
+            <node x="315.0" y="200.0">java.io.CharArrayWriter</node>
+            <node x="4485.375" y="100.0">java.io.Reader</node>
+            <node x="1910.5" y="645.0">java.io.EOFException</node>
+            <node x="477.0" y="200.0">java.io.PipedWriter</node>
+            <node x="820.5000000000001" y="645.0">java.io.FileNotFoundException</node>
+            <node x="2065.0" y="445.0">java.io.Serializable</node>
+            <node x="2885.5" y="445.0">java.io.FileSystem</node>
+            <node x="1648.0000000000002" y="545.0">java.io.UncheckedIOException</node>
+            <node x="2057.5" y="645.0">java.io.SyncFailedException</node>
+            <node x="1276.5000000000002" y="645.0">java.io.CharConversionException</node>
+            <node x="4854.735160818714" y="290.0">java.io.PushbackReader</node>
+            <node x="493.5" y="100.0">java.io.Writer</node>
+            <node x="2550.875" y="200.0">java.io.DataInput</node>
+            <node x="2545.375" y="290.0">java.io.ObjectInput</node>
+            <node x="1021.5000000000001" y="645.0">java.io.UnsupportedEncodingException</node>
+            <node x="1492.5000000000002" y="645.0">java.io.UTFDataFormatException</node>
+            <node x="1210.0" y="735.0">java.io.WriteAbortedException</node>
+            <node x="2681.375" y="290.0">java.io.DataInputStream</node>
+            <node x="4626.0" y="445.0">java.io.FilenameFilter</node>
+            <node x="4413.235160818714" y="200.0">java.io.PipedReader</node>
+            <node x="1038.0" y="200.0">java.io.ByteArrayOutputStream</node>
+            <node x="2319.0" y="545.0">java.io.ObjectStreamClass</node>
+            <node x="3863.2351608187137" y="200.0">java.io.StringBufferInputStream</node>
+            <node x="1706.5" y="645.0">java.io.InterruptedIOException</node>
+            <node x="1426.0" y="290.0">java.io.BufferedOutputStream</node>
+            <node x="437.0" y="735.0">java.io.InvalidClassException</node>
+            <node x="2496.0" y="545.0">java.io.SerializablePermission</node>
+            <node x="2976.2351608187137" y="200.0">java.io.FilterInputStream</node>
+            <node x="0.0" y="810.0">java.io.Bits</node>
+            <node x="130.0" y="200.0">java.io.OutputStreamWriter</node>
+            <node x="1932.0781432748538" y="370.0">java.io.ObjectOutputStream</node>
+            <node x="378.5" y="100.0">java.io.Console</node>
+            <node x="629.0000000000001" y="735.0">java.io.NotActiveException</node>
+            <node x="4278.0" y="445.0">java.io.ExpiringCache</node>
+            <node x="463.5" y="0.0">java.io.Flushable</node>
+            <node x="1358.9986842105263" y="100.0">java.io.OutputStream</node>
+            <node x="1885.375" y="290.0">java.io.PrintStream</node>
+            <node x="1908.1518274853802" y="200.0">java.io.DataOutput</node>
+            <node x="3668.2351608187137" y="200.0">java.io.SequenceInputStream</node>
+            <node x="746.0" y="200.0">java.io.BufferedWriter</node>
+            <node x="614.0" y="200.0">java.io.FilterWriter</node>
+            <node x="900.0" y="200.0">java.io.StringWriter</node>
+            <node x="1009.0000000000001" y="735.0">java.io.OptionalDataException</node>
+            <node x="161.0" y="290.0">java.io.FileWriter</node>
+            <node x="1740.1518274853802" y="200.0">java.io.FileOutputStream</node>
+            <node x="1423.0000000000002" y="545.0">java.io.IOException</node>
+            <node x="3338.2351608187137" y="200.0">java.io.FileInputStream</node>
+            <node x="1243.0" y="200.0">java.io.PipedOutputStream</node>
+            <node x="0.0" y="735.0">java.io.NotSerializableException</node>
+            <node x="4072.2351608187137" y="200.0">java.io.InputStreamReader</node>
+            <node x="1561.0000000000002" y="545.0">java.io.File</node>
+            <node x="2207.0" y="545.0">java.io.IOError</node>
+            <node x="617.5000000000001" y="645.0">java.io.ObjectStreamException</node>
+            <node x="4798.0" y="445.0">java.io.FileFilter</node>
+            <node x="4724.235160818714" y="200.0">java.io.StringReader</node>
+            <node x="3495.0" y="445.0">java.io.DeleteOnExitHook</node>
+            <node x="3893.0" y="445.0">java.io.DefaultFileSystem</node>
+            <node x="4453.0" y="445.0">java.io.FileDescriptor</node>
+            <node x="2247.125" y="0.0">java.io.Closeable</node>
+            <node x="4098.235160818714" y="290.0">java.io.FileReader</node>
+            <node x="4253.235160818714" y="200.0">java.io.BufferedReader</node>
+            <node x="1850.0" y="545.0">java.io.FilePermissionCollection</node>
+            <node x="2166.375" y="290.0">java.io.ObjectStreamConstants</node>
+            <node x="3490.625" y="100.0">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectInput">
+              <point x="0.0" y="-15.0" />
+              <point x="2594.9851608187137" y="350.0" />
+              <point x="2603.375" y="350.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.InputStream">
+              <point x="52.333333333333485" y="-15.0" />
+              <point x="2647.318494152047" y="350.0" />
+              <point x="4061.7351608187137" y="350.0" />
+              <point x="4061.7351608187137" y="150.0" />
+              <point x="3601.125" y="150.0" />
+              <point x="51.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Console" target="java.io.Flushable">
+              <point x="0.0" y="-15.0" />
+              <point x="426.0" y="80.0" />
+              <point x="480.5" y="80.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="java.io.LineNumberReader" target="java.io.BufferedReader">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.InterruptedIOException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="1798.5" y="615.0" />
+              <point x="1504.1250000000002" y="615.0" />
+              <point x="22.125" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectOutputStream" target="java.io.ObjectStreamConstants">
+              <point x="55.66666666666674" y="-15.0" />
+              <point x="2071.2448099415205" y="350.0" />
+              <point x="2212.375" y="350.0" />
+              <point x="-46.0" y="15.0" />
+            </edge>
+            <edge source="java.io.File" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1594.5000000000002" y="505.0" />
+              <point x="2084.0" y="505.0" />
+              <point x="-38.0" y="15.0" />
+            </edge>
+            <edge source="java.io.PrintStream" target="java.io.FilterOutputStream">
+              <point x="-28.75" y="-15.0" />
+              <point x="1914.125" y="260.0" />
+              <point x="1693.9851608187137" y="260.0" />
+              <point x="52.33333333333326" y="15.0" />
+            </edge>
+            <edge source="java.io.RandomAccessFile" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="2447.875" y="80.0" />
+              <point x="2308.375" y="80.0" />
+              <point x="8.75" y="15.0" />
+            </edge>
+            <edge source="java.io.FilterInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3049.7351608187137" y="160.0" />
+              <point x="3499.125" y="160.0" />
+              <point x="-51.0" y="15.0" />
+            </edge>
+            <edge source="java.io.CharArrayWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="386.0" y="180.0" />
+              <point x="523.5" y="180.0" />
+              <point x="-12.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectOutput" target="java.io.DataOutput">
+              <point x="0.0" y="-15.0" />
+              <point x="2083.375" y="260.0" />
+              <point x="1965.6518274853802" y="260.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.NotActiveException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.OutputStream" target="java.io.Closeable">
+              <point x="32.25" y="-15.0" />
+              <point x="1455.7486842105263" y="70.0" />
+              <point x="2273.375" y="70.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="java.io.NotSerializableException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="96.0" y="695.0" />
+              <point x="630.5714285714287" y="695.0" />
+              <point x="-78.42857142857144" y="15.0" />
+            </edge>
+            <edge source="java.io.IOError" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="2253.0" y="525.0" />
+              <point x="2134.666666666667" y="525.0" />
+              <point x="12.666666666666742" y="15.0" />
+            </edge>
+            <edge source="java.io.BufferedWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="813.0" y="170.0" />
+              <point x="559.5" y="170.0" />
+              <point x="24.0" y="15.0" />
+            </edge>
+            <edge source="java.io.RandomAccessFile" target="java.io.DataOutput">
+              <point x="-51.666666666666515" y="-15.0" />
+              <point x="2396.2083333333335" y="250.0" />
+              <point x="2003.9851608187137" y="250.0" />
+              <point x="38.33333333333326" y="15.0" />
+            </edge>
+            <edge source="java.io.FilePermission" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.WinNTFileSystem" target="java.io.FileSystem">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInputStream" target="java.io.ObjectStreamConstants">
+              <point x="-52.333333333333485" y="-15.0" />
+              <point x="2542.65182748538" y="350.0" />
+              <point x="2304.375" y="350.0" />
+              <point x="46.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ByteArrayInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3230.7351608187137" y="170.0" />
+              <point x="3516.125" y="170.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="java.io.DataOutputStream" target="java.io.DataOutput">
+              <point x="39.0" y="-15.0" />
+              <point x="1742.0" y="270.0" />
+              <point x="1927.3184941520472" y="270.0" />
+              <point x="-38.33333333333326" y="15.0" />
+            </edge>
+            <edge source="java.io.UTFDataFormatException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="1589.5000000000002" y="625.0" />
+              <point x="1489.3750000000002" y="625.0" />
+              <point x="7.375" y="15.0" />
+            </edge>
+            <edge source="java.io.StringWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="959.0" y="160.0" />
+              <point x="571.5" y="160.0" />
+              <point x="36.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ByteArrayOutputStream" target="java.io.OutputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="1130.5" y="170.0" />
+              <point x="1371.8986842105264" y="170.0" />
+              <point x="-51.59999999999991" y="15.0" />
+            </edge>
+            <edge source="java.io.DataInputStream" target="java.io.DataInput">
+              <point x="-36.5" y="-15.0" />
+              <point x="2717.875" y="270.0" />
+              <point x="2638.375" y="270.0" />
+              <point x="35.0" y="15.0" />
+            </edge>
+            <edge source="java.io.PrintStream" target="java.io.Closeable">
+              <point x="28.75" y="-15.0" />
+              <point x="1971.625" y="270.0" />
+              <point x="2157.573684210526" y="270.0" />
+              <point x="2157.573684210526" y="80.0" />
+              <point x="2290.875" y="80.0" />
+              <point x="-8.75" y="15.0" />
+            </edge>
+            <edge source="java.io.FileWriter" target="java.io.OutputStreamWriter">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.PipedWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Externalizable" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="2757.0" y="495.0" />
+              <point x="2172.6666666666665" y="495.0" />
+              <point x="50.666666666666515" y="15.0" />
+            </edge>
+            <edge source="java.io.BufferedReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4323.235160818714" y="170.0" />
+              <point x="4507.875" y="170.0" />
+              <point x="-22.5" y="15.0" />
+            </edge>
+            <edge source="java.io.InvalidObjectException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="899.0000000000001" y="715.0" />
+              <point x="735.1428571428573" y="715.0" />
+              <point x="26.142857142857224" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectStreamException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="709.0000000000001" y="595.0" />
+              <point x="1430.3750000000002" y="595.0" />
+              <point x="-51.625" y="15.0" />
+            </edge>
+            <edge source="java.io.UnsupportedEncodingException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="1139.0" y="615.0" />
+              <point x="1459.8750000000002" y="615.0" />
+              <point x="-22.125" y="15.0" />
+            </edge>
+            <edge source="java.io.EOFException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="1974.0" y="605.0" />
+              <point x="1518.8750000000002" y="605.0" />
+              <point x="36.875" y="15.0" />
+            </edge>
+            <edge source="java.io.FileOutputStream" target="java.io.OutputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="1814.1518274853802" y="170.0" />
+              <point x="1475.0986842105262" y="170.0" />
+              <point x="51.59999999999991" y="15.0" />
+            </edge>
+            <edge source="java.io.CharConversionException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="1374.5000000000002" y="625.0" />
+              <point x="1474.6250000000002" y="625.0" />
+              <point x="-7.375" y="15.0" />
+            </edge>
+            <edge source="java.io.DataOutputStream" target="java.io.FilterOutputStream">
+              <point x="-39.0" y="-15.0" />
+              <point x="1664.0" y="270.0" />
+              <point x="1641.6518274853802" y="270.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.FileNotFoundException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="911.0000000000001" y="605.0" />
+              <point x="1445.1250000000002" y="605.0" />
+              <point x="-36.875" y="15.0" />
+            </edge>
+            <edge source="java.io.FilterOutputStream" target="java.io.OutputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="1641.6518274853802" y="180.0" />
+              <point x="1449.2986842105263" y="180.0" />
+              <point x="25.799999999999955" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.io.Flushable">
+              <point x="-21.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.FilterWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="670.0" y="180.0" />
+              <point x="547.5" y="180.0" />
+              <point x="12.0" y="15.0" />
+            </edge>
+            <edge source="java.io.FileReader" target="java.io.InputStreamReader">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.OutputStream" target="java.io.Flushable">
+              <point x="-32.25" y="-15.0" />
+              <point x="1391.2486842105263" y="50.0" />
+              <point x="548.5" y="50.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="java.io.StringBufferInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3957.2351608187137" y="160.0" />
+              <point x="3584.125" y="160.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectStreamClass" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="2397.5" y="515.0" />
+              <point x="2147.3333333333335" y="515.0" />
+              <point x="25.333333333333258" y="15.0" />
+            </edge>
+            <edge source="java.io.OptionalDataException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="1099.5" y="705.0" />
+              <point x="761.2857142857144" y="705.0" />
+              <point x="52.285714285714334" y="15.0" />
+            </edge>
+            <edge source="java.io.FilterReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4927.235160818714" y="160.0" />
+              <point x="4567.875" y="160.0" />
+              <point x="37.5" y="15.0" />
+            </edge>
+            <edge source="java.io.PipedReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4474.735160818714" y="180.0" />
+              <point x="4522.875" y="180.0" />
+              <point x="-7.5" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectOutputStream" target="java.io.OutputStream">
+              <point x="-55.66666666666674" y="-15.0" />
+              <point x="1959.911476608187" y="350.0" />
+              <point x="1415.5" y="350.0" />
+              <point x="1415.5" y="180.0" />
+              <point x="1423.4986842105263" y="180.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.SequenceInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3755.7351608187137" y="170.0" />
+              <point x="3567.125" y="170.0" />
+              <point x="17.0" y="15.0" />
+            </edge>
+            <edge source="java.io.PrintWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="55.0" y="160.0" />
+              <point x="499.5" y="160.0" />
+              <point x="-36.0" y="15.0" />
+            </edge>
+            <edge source="java.io.UncheckedIOException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1739.0000000000002" y="515.0" />
+              <point x="2096.666666666667" y="515.0" />
+              <point x="-25.333333333333258" y="15.0" />
+            </edge>
+            <edge source="java.io.WriteAbortedException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="1301.5" y="695.0" />
+              <point x="787.4285714285716" y="695.0" />
+              <point x="78.42857142857144" y="15.0" />
+            </edge>
+            <edge source="java.io.StreamCorruptedException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="314.5" y="705.0" />
+              <point x="656.7142857142858" y="705.0" />
+              <point x="-52.285714285714334" y="15.0" />
+            </edge>
+            <edge source="java.io.PipedInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3572.2351608187137" y="180.0" />
+              <point x="3550.125" y="180.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.SyncFailedException" target="java.io.IOException">
+              <point x="0.0" y="-15.0" />
+              <point x="2139.5" y="595.0" />
+              <point x="1533.6250000000002" y="595.0" />
+              <point x="51.625" y="15.0" />
+            </edge>
+            <edge source="java.io.FileInputStream" target="java.io.InputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3407.2351608187137" y="180.0" />
+              <point x="3533.125" y="180.0" />
+              <point x="-17.0" y="15.0" />
+            </edge>
+            <edge source="java.io.StringReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4786.235160818714" y="170.0" />
+              <point x="4552.875" y="170.0" />
+              <point x="22.5" y="15.0" />
+            </edge>
+            <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="2931.875" y="270.0" />
+              <point x="3031.3601608187137" y="270.0" />
+              <point x="-18.375" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectInput" target="java.io.DataInput">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Reader" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="4530.375" y="60.0" />
+              <point x="2343.375" y="60.0" />
+              <point x="43.75" y="15.0" />
+            </edge>
+            <edge source="java.io.PushbackReader" target="java.io.FilterReader">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.PushbackInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3123.375" y="270.0" />
+              <point x="3068.1101608187137" y="270.0" />
+              <point x="18.375" y="15.0" />
+            </edge>
+            <edge source="java.io.InputStream" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="3550.125" y="70.0" />
+              <point x="2325.875" y="70.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="java.io.OutputStreamWriter" target="java.io.Writer">
+              <point x="0.0" y="-15.0" />
+              <point x="212.5" y="170.0" />
+              <point x="511.5" y="170.0" />
+              <point x="-24.0" y="15.0" />
+            </edge>
+            <edge source="java.io.IOException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1482.0000000000002" y="495.0" />
+              <point x="2071.3333333333335" y="495.0" />
+              <point x="-50.66666666666674" y="15.0" />
+            </edge>
+            <edge source="java.io.SerializablePermission" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="2584.5" y="505.0" />
+              <point x="2160.0" y="505.0" />
+              <point x="38.0" y="15.0" />
+            </edge>
+            <edge source="java.io.InvalidClassException" target="java.io.ObjectStreamException">
+              <point x="0.0" y="-15.0" />
+              <point x="523.0" y="715.0" />
+              <point x="682.857142857143" y="715.0" />
+              <point x="-26.14285714285711" y="15.0" />
+            </edge>
+            <edge source="java.io.DataInputStream" target="java.io.FilterInputStream">
+              <point x="36.5" y="-15.0" />
+              <point x="2790.875" y="260.0" />
+              <point x="2994.6101608187137" y="260.0" />
+              <point x="-55.125" y="15.0" />
+            </edge>
+            <edge source="java.io.ObjectOutputStream" target="java.io.ObjectOutput">
+              <point x="0.0" y="-15.0" />
+              <point x="2015.5781432748538" y="340.0" />
+              <point x="2083.375" y="340.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.io.Closeable">
+              <point x="21.0" y="-15.0" />
+              <point x="556.5" y="60.0" />
+              <point x="2255.875" y="60.0" />
+              <point x="-43.75" y="15.0" />
+            </edge>
+            <edge source="java.io.RandomAccessFile" target="java.io.DataInput">
+              <point x="51.666666666666515" y="-15.0" />
+              <point x="2499.5416666666665" y="270.0" />
+              <point x="2568.375" y="270.0" />
+              <point x="-35.0" y="15.0" />
+            </edge>
+            <edge source="java.io.BufferedOutputStream" target="java.io.FilterOutputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="1515.5" y="270.0" />
+              <point x="1589.3184941520472" y="270.0" />
+              <point x="-52.33333333333326" y="15.0" />
+            </edge>
+            <edge source="java.io.LineNumberInputStream" target="java.io.FilterInputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="3421.448684210526" y="260.0" />
+              <point x="3104.8601608187137" y="260.0" />
+              <point x="55.125" y="15.0" />
+            </edge>
+            <edge source="java.io.CharArrayReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4630.235160818714" y="180.0" />
+              <point x="4537.875" y="180.0" />
+              <point x="7.5" y="15.0" />
+            </edge>
+            <edge source="java.io.InputStreamReader" target="java.io.Reader">
+              <point x="0.0" y="-15.0" />
+              <point x="4152.735160818714" y="160.0" />
+              <point x="4492.875" y="160.0" />
+              <point x="-37.5" y="15.0" />
+            </edge>
+            <edge source="java.io.FilePermissionCollection" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1943.5" y="525.0" />
+              <point x="2109.3333333333335" y="525.0" />
+              <point x="-12.666666666666742" y="15.0" />
+            </edge>
+            <edge source="java.io.PipedOutputStream" target="java.io.OutputStream">
+              <point x="0.0" y="-15.0" />
+              <point x="1324.0" y="180.0" />
+              <point x="1397.6986842105264" y="180.0" />
+              <point x="-25.799999999999955" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.26414342629482074" x="898.5972850678733" y="189.06485671191547" />
+          <SelectedNodes>
+            <node>java.io.FileDescriptor</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.net">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.net</OriginalElement>
+          <nodes>
+            <node x="958.0" y="475.0">java.net.HttpURLConnection</node>
+            <node x="756.5714285714287" y="80.0">java.net.SocketImpl</node>
+            <node x="532.0714285714287" y="320.0">java.net.HttpConnectSocketImpl</node>
+            <node x="1079.0" y="1160.0">java.net.SocketSecrets</node>
+            <node x="460.0" y="705.0">java.net.SocketAddress</node>
+            <node x="850.0" y="1235.0">java.net.URLDecoder</node>
+            <node x="379.0" y="1310.0">java.net.URL</node>
+            <node x="0.0" y="1235.0">java.net.SocketOption</node>
+            <node x="642.0" y="1010.0">java.net.URISyntaxException</node>
+            <node x="682.0" y="630.0">java.net.UnknownContentHandler</node>
+            <node x="1151.0" y="630.0">java.net.FactoryURLClassLoader</node>
+            <node x="443.0" y="550.0">java.net.InetAddress</node>
+            <node x="172.0" y="1235.0">java.net.ProxySelector</node>
+            <node x="514.0" y="1235.0">java.net.ServerSocket</node>
+            <node x="1180.0" y="1235.0">java.net.HttpCookie</node>
+            <node x="1172.0" y="550.0">java.net.URLClassLoader</node>
+            <node x="244.5" y="705.0">java.net.CacheResponse</node>
+            <node x="132.0" y="1310.0">java.net.Proxy</node>
+            <node x="275.00000000000006" y="240.0">java.net.TwoStacksPlainDatagramSocketImpl</node>
+            <node x="539.0" y="475.0">java.net.PortUnreachableException</node>
+            <node x="920.0" y="630.0">java.net.StandardProtocolFamily</node>
+            <node x="611.0" y="1310.0">java.net.URI</node>
+            <node x="601.0" y="1085.0">java.net.SocketPermission</node>
+            <node x="785.0" y="475.0">java.net.JarURLConnection</node>
+            <node x="849.0" y="1010.0">java.net.HttpRetryException</node>
+            <node x="235.0" y="935.0">java.net.StandardSocketOptions</node>
+            <node x="30.0" y="705.0">java.net.CookieStore</node>
+            <node x="990.0" y="1085.0">java.net.InterfaceAddress</node>
+            <node x="225.0" y="785.0">java.net.SecureCacheResponse</node>
+            <node x="0.0" y="240.0">java.net.DualStackPlainDatagramSocketImpl</node>
+            <node x="344.0" y="1235.0">java.net.Authenticator</node>
+            <node x="796.0" y="1085.0">java.net.NetworkInterface</node>
+            <node x="89.0" y="550.0">java.net.InetAddressImpl</node>
+            <node x="203.0" y="1085.0">java.net.SocketImplFactory</node>
+            <node x="510.0" y="860.0">java.net.URLStreamHandlerFactory</node>
+            <node x="449.0" y="785.0">java.net.InetSocketAddress</node>
+            <node x="683.0" y="1235.0">java.net.CookiePolicy</node>
+            <node x="171.0" y="630.0">java.net.Inet4AddressImpl</node>
+            <node x="714.0" y="240.0">java.net.DualStackPlainSocketImpl</node>
+            <node x="1053.0" y="1010.0">java.net.URLStreamHandler</node>
+            <node x="0.0" y="860.0">java.net.DatagramSocketImplFactory</node>
+            <node x="904.0" y="1160.0">java.net.CacheRequest</node>
+            <node x="1102.25" y="320.0">java.net.SocksSocketImpl</node>
+            <node x="841.0" y="785.0">java.net.CookieManager</node>
+            <node x="219.0" y="1010.0">java.net.SocketOutputStream</node>
+            <node x="0.0" y="1160.0">java.net.DefaultInterface</node>
+            <node x="1182.0" y="1085.0">java.net.DatagramPacket</node>
+            <node x="755.0" y="860.0">java.net.UnknownServiceException</node>
+            <node x="321.0" y="475.0">java.net.NoRouteToHostException</node>
+            <node x="257.0" y="1310.0">java.net.Parts</node>
+            <node x="434.82142857142867" y="0.0">java.net.SocketOptions</node>
+            <node x="495.0" y="1310.0">java.net.IDN</node>
+            <node x="0.0" y="1310.0">java.net.Socket</node>
+            <node x="554.0" y="240.0">java.net.PlainSocketImpl</node>
+            <node x="185.0" y="1160.0">java.net.ResponseCache</node>
+            <node x="1158.0" y="935.0">java.net.ContentHandlerFactory</node>
+            <node x="164.32142857142867" y="80.0">java.net.DatagramSocketImpl</node>
+            <node x="946.5" y="550.0">java.net.ProtocolFamily</node>
+            <node x="171.0" y="475.0">java.net.BindException</node>
+            <node x="0.0" y="630.0">java.net.Inet6AddressImpl</node>
+            <node x="549.0" y="1160.0">java.net.HostPortrange</node>
+            <node x="376.0714285714286" y="320.0">java.net.SdpSocketImpl</node>
+            <node x="651.0" y="705.0">java.net.DatagramSocket</node>
+            <node x="256.5" y="395.0">java.net.SocketException</node>
+            <node x="931.0" y="240.0">java.net.TwoStacksPlainSocketImpl</node>
+            <node x="727.0" y="1160.0">java.net.NetPermission</node>
+            <node x="466.0" y="935.0">java.net.PasswordAuthentication</node>
+            <node x="844.5" y="705.0">java.net.CookieHandler</node>
+            <node x="882.0" y="395.0">java.net.URLConnection</node>
+            <node x="1253.0" y="1160.0">java.net.FileNameMap</node>
+            <node x="0.0" y="935.0">java.net.SocketTimeoutException</node>
+            <node x="0.0" y="475.0">java.net.ConnectException</node>
+            <node x="1152.0" y="240.0">java.net.SocksConsts</node>
+            <node x="0.0" y="1010.0">java.net.InetAddressContainer</node>
+            <node x="0.0" y="785.0">java.net.InMemoryCookieStore</node>
+            <node x="999.0" y="860.0">java.net.MalformedURLException</node>
+            <node x="370.0" y="1160.0">java.net.URLPermission</node>
+            <node x="432.0" y="1010.0">java.net.UrlDeserializedState</node>
+            <node x="697.0" y="935.0">java.net.InetAddressImplFactory</node>
+            <node x="258.0" y="860.0">java.net.SocketPermissionCollection</node>
+            <node x="928.0" y="935.0">java.net.UnknownHostException</node>
+            <node x="512.0" y="630.0">java.net.Inet4Address</node>
+            <node x="709.0" y="550.0">java.net.ContentHandler</node>
+            <node x="367.0" y="630.0">java.net.Inet6Address</node>
+            <node x="719.0714285714287" y="160.0">java.net.AbstractPlainSocketImpl</node>
+            <node x="1016.0" y="1235.0">java.net.URLEncoder</node>
+            <node x="403.0" y="1085.0">java.net.ProtocolException</node>
+            <node x="0.0" y="1085.0">java.net.SocketInputStream</node>
+            <node x="654.0" y="785.0">java.net.MulticastSocket</node>
+            <node x="126.82142857142867" y="160.0">java.net.AbstractPlainDatagramSocketImpl</node>
+            <node x="1028.0" y="705.0">java.net.DefaultDatagramSocketImplFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.net.SocksSocketImpl" target="java.net.PlainSocketImpl">
+              <point x="-36.75" y="-15.0" />
+              <point x="1139.0" y="295.0" />
+              <point x="670.6666666666667" y="295.0" />
+              <point x="46.66666666666663" y="15.0" />
+            </edge>
+            <edge source="java.net.DatagramSocketImpl" target="java.net.SocketOptions">
+              <point x="0.0" y="-15.0" />
+              <point x="249.82142857142867" y="55.0" />
+              <point x="468.07142857142867" y="55.0" />
+              <point x="-33.25" y="15.0" />
+            </edge>
+            <edge source="java.net.InetSocketAddress" target="java.net.SocketAddress">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.DualStackPlainDatagramSocketImpl" target="java.net.AbstractPlainDatagramSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="127.5" y="215.0" />
+              <point x="188.32142857142867" y="215.0" />
+              <point x="-61.5" y="15.0" />
+            </edge>
+            <edge source="java.net.SecureCacheResponse" target="java.net.CacheResponse">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.Inet4AddressImpl" target="java.net.InetAddressImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="246.5" y="605.0" />
+              <point x="197.0" y="605.0" />
+              <point x="36.0" y="15.0" />
+            </edge>
+            <edge source="java.net.SdpSocketImpl" target="java.net.PlainSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="444.0714285714286" y="295.0" />
+              <point x="577.3333333333335" y="295.0" />
+              <point x="-46.66666666666663" y="15.0" />
+            </edge>
+            <edge source="java.net.InMemoryCookieStore" target="java.net.CookieStore">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.AbstractPlainDatagramSocketImpl" target="java.net.DatagramSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.HttpURLConnection" target="java.net.URLConnection">
+              <point x="0.0" y="-15.0" />
+              <point x="1038.5" y="450.0" />
+              <point x="984.0" y="450.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="java.net.ConnectException" target="java.net.SocketException">
+              <point x="0.0" y="-15.0" />
+              <point x="75.5" y="445.0" />
+              <point x="274.375" y="445.0" />
+              <point x="-53.625" y="15.0" />
+            </edge>
+            <edge source="java.net.BindException" target="java.net.SocketException">
+              <point x="0.0" y="-15.0" />
+              <point x="236.0" y="455.0" />
+              <point x="310.125" y="455.0" />
+              <point x="-17.875" y="15.0" />
+            </edge>
+            <edge source="java.net.CookieManager" target="java.net.CookieHandler">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.PortUnreachableException" target="java.net.SocketException">
+              <point x="0.0" y="-15.0" />
+              <point x="639.5" y="445.0" />
+              <point x="381.625" y="445.0" />
+              <point x="53.625" y="15.0" />
+            </edge>
+            <edge source="java.net.FactoryURLClassLoader" target="java.net.URLClassLoader">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.StandardProtocolFamily" target="java.net.ProtocolFamily">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.AbstractPlainSocketImpl" target="java.net.SocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.Inet6Address" target="java.net.InetAddress">
+              <point x="0.0" y="-15.0" />
+              <point x="429.5" y="605.0" />
+              <point x="472.5" y="605.0" />
+              <point x="-29.5" y="15.0" />
+            </edge>
+            <edge source="java.net.HttpConnectSocketImpl" target="java.net.PlainSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.TwoStacksPlainSocketImpl" target="java.net.AbstractPlainSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="1031.5" y="215.0" />
+              <point x="875.7380952380954" y="215.0" />
+              <point x="62.66666666666674" y="15.0" />
+            </edge>
+            <edge source="java.net.SocketImpl" target="java.net.SocketOptions">
+              <point x="0.0" y="-15.0" />
+              <point x="813.0714285714287" y="55.0" />
+              <point x="534.5714285714287" y="55.0" />
+              <point x="33.25" y="15.0" />
+            </edge>
+            <edge source="java.net.DualStackPlainSocketImpl" target="java.net.AbstractPlainSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.UnknownContentHandler" target="java.net.ContentHandler">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.MulticastSocket" target="java.net.DatagramSocket">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.SocksSocketImpl" target="java.net.SocksConsts">
+              <point x="36.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.net.Inet4Address" target="java.net.InetAddress">
+              <point x="0.0" y="-15.0" />
+              <point x="574.5" y="605.0" />
+              <point x="531.5" y="605.0" />
+              <point x="29.5" y="15.0" />
+            </edge>
+            <edge source="java.net.TwoStacksPlainDatagramSocketImpl" target="java.net.AbstractPlainDatagramSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="404.50000000000006" y="215.0" />
+              <point x="311.32142857142867" y="215.0" />
+              <point x="61.5" y="15.0" />
+            </edge>
+            <edge source="java.net.Inet6AddressImpl" target="java.net.InetAddressImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="75.5" y="605.0" />
+              <point x="125.0" y="605.0" />
+              <point x="-36.0" y="15.0" />
+            </edge>
+            <edge source="java.net.JarURLConnection" target="java.net.URLConnection">
+              <point x="0.0" y="-15.0" />
+              <point x="861.5" y="450.0" />
+              <point x="916.0" y="450.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="java.net.PlainSocketImpl" target="java.net.AbstractPlainSocketImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="624.0" y="215.0" />
+              <point x="750.4047619047619" y="215.0" />
+              <point x="-62.66666666666663" y="15.0" />
+            </edge>
+            <edge source="java.net.NoRouteToHostException" target="java.net.SocketException">
+              <point x="0.0" y="-15.0" />
+              <point x="420.0" y="455.0" />
+              <point x="345.875" y="455.0" />
+              <point x="17.875" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6426470588235293" x="256.858123569794" y="353.45537757437074" />
+          <SelectedNodes>
+            <node>java.net.URLConnection</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.net.Socket">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.net.Socket</OriginalElement>
+          <nodes>
+            <node x="22.5" y="160.0">java.net.Socket</node>
+            <node x="13.5" y="80.0">java.io.Closeable</node>
+            <node x="0.0" y="0.0">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.net.Socket" target="java.io.Closeable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="66.0" y="95.0" />
+          <SelectedNodes>
+            <node>java.net.Socket</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2325">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="docComment;class#TestException#0" expanded="true" />
+            <element signature="docComment;class#Socket#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/DataInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="docComment;class#DataInputStream#0" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/java.nio">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.nio</OriginalElement>
+          <nodes>
+            <node x="2873.0" y="180.0">java.nio.ByteBufferAsCharBufferL</node>
+            <node x="3657.0" y="260.0">java.nio.ByteBufferAsDoubleBufferRB</node>
+            <node x="5438.0" y="260.0">java.nio.ByteBufferAsIntBufferRL</node>
+            <node x="987.0" y="260.0">java.nio.ByteBufferAsLongBufferRB</node>
+            <node x="4847.5" y="90.0">java.nio.FloatBuffer</node>
+            <node x="5002.0" y="180.0">java.nio.ByteBufferAsFloatBufferL</node>
+            <node x="3424.0" y="260.0">java.nio.ByteBufferAsDoubleBufferRL</node>
+            <node x="3091.0" y="260.0">java.nio.DirectByteBuffer</node>
+            <node x="1208.9999999999998" y="260.0">java.nio.HeapLongBufferR</node>
+            <node x="938.0" y="415.0">java.nio.CharBufferSpliterator</node>
+            <node x="1659.0" y="415.0">java.nio.file</node>
+            <node x="3194.1290540540513" y="90.0">java.nio.ByteBuffer</node>
+            <node x="631.0" y="260.0">java.nio.DirectShortBufferRS</node>
+            <node x="446.0" y="260.0">java.nio.DirectShortBufferRU</node>
+            <node x="2509.0" y="260.0">java.nio.DirectCharBufferRS</node>
+            <node x="5221.0" y="180.0">java.nio.ByteBufferAsFloatBufferB</node>
+            <node x="5877.5" y="90.0">java.nio.IntBuffer</node>
+            <node x="818.0" y="180.0">java.nio.HeapShortBuffer</node>
+            <node x="2124.0" y="180.0">java.nio.ByteBufferAsCharBufferB</node>
+            <node x="2688.0" y="260.0">java.nio.DirectCharBufferRU</node>
+            <node x="1379.9999999999998" y="260.0">java.nio.ByteBufferAsLongBufferRL</node>
+            <node x="720.0" y="415.0">java.nio.InvalidMarkException</node>
+            <node x="5217.0" y="260.0">java.nio.ByteBufferAsFloatBufferRB</node>
+            <node x="4.0" y="180.0">java.nio.ByteBufferAsShortBufferL</node>
+            <node x="2446.5" y="90.0">java.nio.CharBuffer</node>
+            <node x="4086.0" y="260.0">java.nio.DirectDoubleBufferRU</node>
+            <node x="3892.0" y="260.0">java.nio.DirectDoubleBufferRS</node>
+            <node x="6192.0" y="180.0">java.nio.HeapIntBuffer</node>
+            <node x="4282.0" y="260.0">java.nio.HeapDoubleBufferR</node>
+            <node x="1506.0" y="415.0">java.nio.ByteOrder</node>
+            <node x="226.0" y="180.0">java.nio.ByteBufferAsShortBufferB</node>
+            <node x="5644.0" y="260.0">java.nio.ByteBufferAsIntBufferRB</node>
+            <node x="4998.0" y="260.0">java.nio.ByteBufferAsFloatBufferRL</node>
+            <node x="4650.0" y="180.0">java.nio.DirectFloatBufferU</node>
+            <node x="2340.0" y="260.0">java.nio.HeapCharBufferR</node>
+            <node x="4828.0" y="260.0">java.nio.HeapFloatBufferR</node>
+            <node x="484.0" y="415.0">java.nio.BufferOverflowException</node>
+            <node x="0.0" y="260.0">java.nio.ByteBufferAsShortBufferRL</node>
+            <node x="471.5" y="90.0">java.nio.ShortBuffer</node>
+            <node x="4470.0" y="180.0">java.nio.DirectFloatBufferS</node>
+            <node x="1154.0" y="415.0">java.nio.channels</node>
+            <node x="991.0" y="180.0">java.nio.ByteBufferAsLongBufferB</node>
+            <node x="2869.0" y="260.0">java.nio.ByteBufferAsCharBufferRL</node>
+            <node x="1334.0" y="415.0">java.nio.charset</node>
+            <node x="4646.0" y="260.0">java.nio.DirectFloatBufferRU</node>
+            <node x="4466.0" y="260.0">java.nio.DirectFloatBufferRS</node>
+            <node x="1959.9999999999998" y="180.0">java.nio.StringCharBuffer</node>
+            <node x="5442.0" y="180.0">java.nio.ByteBufferAsIntBufferL</node>
+            <node x="3661.0" y="180.0">java.nio.ByteBufferAsDoubleBufferB</node>
+            <node x="1212.9999999999998" y="180.0">java.nio.HeapLongBuffer</node>
+            <node x="3087.0" y="340.0">java.nio.DirectByteBufferR</node>
+            <node x="3204.75" y="0.0">java.nio.Buffer</node>
+            <node x="1806.0" y="415.0">java.nio.Bits</node>
+            <node x="2120.0" y="260.0">java.nio.ByteBufferAsCharBufferRB</node>
+            <node x="4832.0" y="180.0">java.nio.HeapFloatBuffer</node>
+            <node x="222.0" y="260.0">java.nio.ByteBufferAsShortBufferRB</node>
+            <node x="5648.0" y="180.0">java.nio.ByteBufferAsIntBufferB</node>
+            <node x="1383.9999999999998" y="180.0">java.nio.ByteBufferAsLongBufferL</node>
+            <node x="3428.0" y="180.0">java.nio.ByteBufferAsDoubleBufferL</node>
+            <node x="5852.0" y="260.0">java.nio.DirectIntBufferRU</node>
+            <node x="4090.0" y="180.0">java.nio.DirectDoubleBufferU</node>
+            <node x="450.0" y="180.0">java.nio.DirectShortBufferU</node>
+            <node x="6021.0" y="260.0">java.nio.DirectIntBufferRS</node>
+            <node x="2513.0" y="180.0">java.nio.DirectCharBufferS</node>
+            <node x="814.0" y="260.0">java.nio.HeapShortBufferR</node>
+            <node x="3916.5" y="90.0">java.nio.DoubleBuffer</node>
+            <node x="3896.0" y="180.0">java.nio.DirectDoubleBufferS</node>
+            <node x="3257.0" y="260.0">java.nio.HeapByteBufferR</node>
+            <node x="1784.9999999999998" y="180.0">java.nio.DirectLongBufferU</node>
+            <node x="635.0" y="180.0">java.nio.DirectShortBufferS</node>
+            <node x="0.0" y="415.0">java.nio.BufferUnderflowException</node>
+            <node x="1603.9999999999998" y="180.0">java.nio.DirectLongBufferS</node>
+            <node x="4286.0" y="180.0">java.nio.HeapDoubleBuffer</node>
+            <node x="1780.9999999999998" y="260.0">java.nio.DirectLongBufferRU</node>
+            <node x="5856.0" y="180.0">java.nio.DirectIntBufferU</node>
+            <node x="1599.9999999999998" y="260.0">java.nio.DirectLongBufferRS</node>
+            <node x="2344.0" y="180.0">java.nio.HeapCharBuffer</node>
+            <node x="6025.0" y="180.0">java.nio.DirectIntBufferS</node>
+            <node x="3261.0" y="180.0">java.nio.HeapByteBuffer</node>
+            <node x="1423.9999999999998" y="90.0">java.nio.LongBuffer</node>
+            <node x="6188.0" y="260.0">java.nio.HeapIntBufferR</node>
+            <node x="2692.0" y="180.0">java.nio.DirectCharBufferU</node>
+            <node x="244.0" y="415.0">java.nio.ReadOnlyBufferException</node>
+            <node x="3083.0" y="180.0">java.nio.MappedByteBuffer</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.nio.HeapShortBuffer" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="890.5" y="150.0" />
+              <point x="574.1000000000004" y="150.0" />
+              <point x="45.600000000000364" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferS" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="4546.0" y="150.0" />
+              <point x="4858.599999999999" y="150.0" />
+              <point x="-44.40000000000009" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapIntBuffer" target="java.nio.IntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="6256.5" y="150.0" />
+              <point x="5965.7" y="150.0" />
+              <point x="39.19999999999999" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectByteBuffer" target="java.nio.MappedByteBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferL" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="101.0" y="150.0" />
+              <point x="482.89999999999964" y="150.0" />
+              <point x="-45.600000000000364" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferRL" target="java.nio.ByteBufferAsCharBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.FloatBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="4903.0" y="60.0" />
+              <point x="3269.9642857142853" y="60.0" />
+              <point x="23.71428571428578" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferS" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="712.5" y="160.0" />
+              <point x="551.3000000000002" y="160.0" />
+              <point x="22.800000000000182" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferRS" target="java.nio.DirectDoubleBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferRU" target="java.nio.DirectFloatBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferRS" target="java.nio.DirectCharBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapCharBuffer" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2414.5" y="160.0" />
+              <point x="2492.333333333333" y="160.0" />
+              <point x="-9.166666666666515" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferB" target="java.nio.LongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="1088.0" y="150.0" />
+              <point x="1435.1999999999996" y="150.0" />
+              <point x="-44.80000000000018" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferRB" target="java.nio.ByteBufferAsShortBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.IntBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="5926.5" y="50.0" />
+              <point x="3281.8214285714284" y="50.0" />
+              <point x="35.57142857142844" y="15.0" />
+            </edge>
+            <edge source="java.nio.DoubleBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3979.0" y="70.0" />
+              <point x="3258.107142857142" y="70.0" />
+              <point x="11.857142857142662" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferS" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2588.5" y="160.0" />
+              <point x="2510.666666666666" y="160.0" />
+              <point x="9.166666666666515" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferL" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="5097.5" y="160.0" />
+              <point x="4925.2" y="160.0" />
+              <point x="22.200000000000045" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferRU" target="java.nio.DirectIntBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferRS" target="java.nio.DirectLongBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferS" target="java.nio.IntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="6094.5" y="160.0" />
+              <point x="5946.1" y="160.0" />
+              <point x="19.600000000000023" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapCharBufferR" target="java.nio.HeapCharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferS" target="java.nio.LongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="1680.4999999999998" y="160.0" />
+              <point x="1502.3999999999994" y="160.0" />
+              <point x="22.399999999999636" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapFloatBuffer" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.CharBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2501.5" y="70.0" />
+              <point x="3234.392857142857" y="70.0" />
+              <point x="-11.857142857142662" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferRB" target="java.nio.ByteBufferAsDoubleBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferB" target="java.nio.IntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="5738.0" y="160.0" />
+              <point x="5906.9" y="160.0" />
+              <point x="-19.600000000000023" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferRL" target="java.nio.ByteBufferAsIntBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapDoubleBufferR" target="java.nio.HeapDoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferRL" target="java.nio.ByteBufferAsLongBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferRL" target="java.nio.ByteBufferAsFloatBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferU" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="4174.0" y="160.0" />
+              <point x="4004.0" y="160.0" />
+              <point x="25.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.MappedByteBuffer" target="java.nio.ByteBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3162.0" y="160.0" />
+              <point x="3221.1290540540513" y="160.0" />
+              <point x="-27.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferL" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2968.0" y="140.0" />
+              <point x="2547.333333333333" y="140.0" />
+              <point x="45.833333333333485" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferRU" target="java.nio.DirectShortBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapIntBufferR" target="java.nio.HeapIntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapDoubleBuffer" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="4364.0" y="150.0" />
+              <point x="4029.0" y="150.0" />
+              <point x="50.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapShortBufferR" target="java.nio.HeapShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferRB" target="java.nio.ByteBufferAsCharBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferU" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferL" target="java.nio.LongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectByteBufferR" target="java.nio.DirectByteBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferB" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3764.5" y="160.0" />
+              <point x="3954.0" y="160.0" />
+              <point x="-25.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferRU" target="java.nio.DirectDoubleBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapLongBufferR" target="java.nio.HeapLongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.LongBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="1479.9999999999998" y="60.0" />
+              <point x="3222.5357142857138" y="60.0" />
+              <point x="-23.71428571428578" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferRS" target="java.nio.DirectFloatBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferRU" target="java.nio.DirectCharBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3248.1290540540513" y="70.0" />
+              <point x="3246.25" y="70.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.StringCharBuffer" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2031.9999999999998" y="140.0" />
+              <point x="2455.666666666666" y="140.0" />
+              <point x="-45.833333333333485" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferRL" target="java.nio.ByteBufferAsShortBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferU" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="4727.0" y="160.0" />
+              <point x="4880.799999999999" y="160.0" />
+              <point x="-22.200000000000045" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapFloatBufferR" target="java.nio.HeapFloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferB" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="324.0" y="160.0" />
+              <point x="505.6999999999998" y="160.0" />
+              <point x="-22.800000000000182" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferU" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2768.5" y="150.0" />
+              <point x="2529.0" y="150.0" />
+              <point x="27.5" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferRS" target="java.nio.DirectIntBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapByteBuffer" target="java.nio.ByteBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3330.5" y="160.0" />
+              <point x="3275.1290540540513" y="160.0" />
+              <point x="27.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferRU" target="java.nio.DirectLongBufferU">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferB" target="java.nio.CharBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="2220.0" y="150.0" />
+              <point x="2474.0" y="150.0" />
+              <point x="-27.5" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferL" target="java.nio.IntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="5531.0" y="150.0" />
+              <point x="5887.3" y="150.0" />
+              <point x="-39.19999999999999" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferU" target="java.nio.IntBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ShortBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-15.0" />
+              <point x="528.5" y="50.0" />
+              <point x="3210.6785714285716" y="50.0" />
+              <point x="-35.57142857142844" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferRL" target="java.nio.ByteBufferAsDoubleBufferL">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferU" target="java.nio.LongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="1862.4999999999998" y="150.0" />
+              <point x="1524.8" y="150.0" />
+              <point x="44.80000000000018" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferL" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="3530.5" y="150.0" />
+              <point x="3929.0" y="150.0" />
+              <point x="-50.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapByteBufferR" target="java.nio.HeapByteBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferB" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="5317.5" y="150.0" />
+              <point x="4947.4" y="150.0" />
+              <point x="44.40000000000009" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferRB" target="java.nio.ByteBufferAsIntBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.HeapLongBuffer" target="java.nio.LongBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="1284.4999999999998" y="160.0" />
+              <point x="1457.6000000000001" y="160.0" />
+              <point x="-22.399999999999636" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferRB" target="java.nio.ByteBufferAsLongBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferRB" target="java.nio.ByteBufferAsFloatBufferB">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferRS" target="java.nio.DirectShortBufferS">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferS" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.963593380614657" x="229.06771344455353" y="159.19528949950933" />
+          <SelectedNodes>
+            <node>java.nio.MappedByteBuffer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="docComment;class#BufferedInputStream#0" expanded="true" />
-            <element signature="docComment;method#BufferedInputStream#0;class#BufferedInputStream#0" expanded="true" />
-            <element signature="e#5951#5952#0" expanded="true" />
-            <element signature="e#5996#5997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/DataOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="37" column="64" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
-          <folding>
-            <element signature="docComment;class#DataOutputStream#0" expanded="true" />
-            <element signature="docComment;method#DataOutputStream#0;class#DataOutputStream#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-            <element signature="e#1295#1296#0" expanded="true" />
-            <element signature="docComment;method#incCount#0;class#DataOutputStream#0" expanded="true" />
-            <element signature="docComment;method#writeInt#0;class#DataOutputStream#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/DataOutput.java">
+    <entry file="jar://E:/java/jdk/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/locations.dat">
+    <entry file="uml://JAVA/sun.nio.cs.StreamEncoder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sun.nio.cs.StreamEncoder</OriginalElement>
+          <nodes>
+            <node x="122.0" y="80.0">java.lang.Appendable</node>
+            <node x="261.0" y="80.0">java.io.Closeable</node>
+            <node x="139.5" y="160.0">java.io.Writer</node>
+            <node x="247.5" y="0.0">java.lang.AutoCloseable</node>
+            <node x="0.0" y="80.0">java.io.Flushable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.Writer" target="java.io.Closeable">
+              <point x="28.0" y="-15.0" />
+              <point x="209.5" y="135.0" />
+              <point x="313.5" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.io.Flushable">
+              <point x="-28.0" y="-15.0" />
+              <point x="153.5" y="135.0" />
+              <point x="51.0" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.io.Writer" target="java.lang.Appendable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-89.0" y="34.0" />
+          <SelectedNodes>
+            <node>java.io.Flushable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.InputStream">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.InputStream</OriginalElement>
+          <nodes>
+            <node x="" y="">java.io.Closeable</node>
+            <node x="" y="">java.lang.AutoCloseable</node>
+            <node x="" y="">java.io.InputStream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-169.0" y="160.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/FileDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="-100">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="docComment;method#FileDescriptor#0;class#FileDescriptor#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="134" column="26" lean-forward="true" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/locations.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="953">
+        <state relative-caret-position="878">
           <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3640">
-          <caret line="2591" column="46" selection-start-line="2591" selection-start-column="46" selection-end-line="2591" selection-end-column="46" />
-          <folding>
-            <element signature="e#75665#76604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/ShiftInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="docComment;class#ShiftInt#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/BufferedOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-          <folding>
-            <element signature="e#1188#1189#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="371" column="6" lean-forward="true" selection-start-line="371" selection-start-column="6" selection-end-line="371" selection-end-column="6" />
-          <folding>
-            <element signature="e#15711#15712#0" expanded="true" />
-            <element signature="e#15747#15748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/shile/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1621#1622#0" expanded="true" />
-            <element signature="e#1687#1688#0" expanded="true" />
-            <element signature="e#1749#1750#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/util/RandomAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-          <folding>
-            <element signature="docComment;class#RandomAccess#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/RandomAccessFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="e#11131#11910#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shile/Locations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        <state relative-caret-position="578">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#Locations#0" expanded="true" />
+            <element signature="e#5481#5482#0" expanded="true" />
             <element signature="e#5520#5521#0" expanded="true" />
+            <element signature="e#5566#5567#0" expanded="true" />
             <element signature="e#5608#5609#0" expanded="true" />
+            <element signature="e#5668#5669#0" expanded="true" />
             <element signature="e#5717#5718#0" expanded="true" />
+            <element signature="e#5781#5782#0" expanded="true" />
             <element signature="e#5834#5835#0" expanded="true" />
+            <element signature="e#5887#5888#0" expanded="true" />
             <element signature="e#5928#5929#0" expanded="true" />
+            <element signature="e#5998#5999#0" expanded="true" />
             <element signature="e#6046#6047#0" expanded="true" />
+            <element signature="e#6102#6103#0" expanded="true" />
             <element signature="e#6146#6147#0" expanded="true" />
+            <element signature="e#6364#6365#0" expanded="true" />
             <element signature="e#6405#6406#0" expanded="true" />
+            <element signature="e#6463#6464#0" expanded="true" />
             <element signature="e#6504#6505#0" expanded="true" />
+            <element signature="e#6573#6574#0" expanded="true" />
             <element signature="e#6616#6617#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="docComment;class#ObjectOutputStream#0" expanded="true" />
           </folding>
         </state>
       </provider>

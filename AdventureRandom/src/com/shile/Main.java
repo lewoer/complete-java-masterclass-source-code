@@ -1,5 +1,6 @@
 package com.shile;
 
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -14,26 +15,25 @@ public class Main {
 
     private static Locations locations = new Locations();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 
-        Map<String,String> vocabulary = new HashMap<String, String>();
+        Map<String,String> vocabulary = new HashMap<>();
         vocabulary.put("QUIT","Q");
         vocabulary.put("SOUTH", "S");
         vocabulary.put("NORTH","N");
         vocabulary.put("WEST","W");
         vocabulary.put("EAST", "E");
 
-//        int loc = 1;
-        int loc = 64;
+        Location currentLocation = locations.getLocation(64);
         while (true) {
-            System.out.println(locations.get(loc).getDescription());
-            // Locatation类中new HashMap(exits)可以避免被删除，we still have reference to the exits map for lcoatation 5
-            if (loc == 0) {
+            // 当前位置描述
+            System.out.println(currentLocation.getDescription());
+            if (currentLocation.getLocationID() == 0) {
                 break;
             }
 
-            Map<String, Integer> exits = locations.get(loc).getExits();
+            Map<String, Integer> exits = currentLocation.getExits();
             System.out.print("Available exits are ");
             for (String exit : exits.keySet()) {
                 System.out.print(exit + ", ");
@@ -51,11 +51,13 @@ public class Main {
 
             }
             if (exits.containsKey(direction)) {
-                loc = exits.get(direction);
+                // update currentLocation
+                currentLocation = locations.getLocation(currentLocation.getExits().get(direction));
             } else {
                 System.out.println("you can't go in that direction");
             }
         }
 
+        locations.close();
     }
 }
