@@ -1,0 +1,1 @@
+The position and truncate methods which do not otherwise have a value to return are specified to return the channel upon which they are invoked. This allows method invocations to be chained. Implementations of this interface should specialize the return type so that method invocations on the implementation class can be chained.

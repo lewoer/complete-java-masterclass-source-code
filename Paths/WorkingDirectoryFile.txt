@@ -1,0 +1,5 @@
+The following code snippet opens a file for both reading and writing by using one of the newByteChannel methods.
+The SeekableByteChannel that is returned is cast to a FileChannel.
+ Then, 12 bytes are read from the beginning of the file, and the string "I was here!" is written at that location.
+  The current position in the file is moved to the end, and the 12 bytes from the beginning are appended.
+  Finally, the string, "I was here!" is appended, and the channel on the file is closed.

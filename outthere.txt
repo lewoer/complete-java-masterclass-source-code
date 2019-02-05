@@ -1,0 +1,11 @@
+
+    // Move to the end of the file.  Copy the first 12 bytes to
+    // the end of the file.  Then write "I was here!" again.
+    long length = fc.size();
+    fc.position(length-1);
+    copy.flip();
+    while (copy.hasRemaining())
+        fc.write(copy);
+    while (out.hasRemaining())
+        fc.write(out);
+} catch (IOException x) {
