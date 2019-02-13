@@ -3,10 +3,7 @@ package com.shile;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-import java.util.function.Function;
-import java.util.function.IntPredicate;
-import java.util.function.Predicate;
-import java.util.function.Supplier;
+import java.util.function.*;
 
 public class Main {
 
@@ -45,6 +42,25 @@ public class Main {
             }
         }
 
+        // chaining java.util.function
+        Function<Employee,String> upperCase = employee -> employee.getName().toUpperCase();
+        Function<String, String> firstName = name -> name.substring(0,name.indexOf(' '));
+        Function chainFunction = upperCase.andThen(firstName);
+        System.out.println(chainFunction.apply(employees.get(0)));
+        BiFunction<String, Employee, String> concatAge = (String name, Employee employee) -> {
+            return name.concat(" " + employee.getAge());
+        };
+        String upperName = upperCase.apply(employees.get(0));
+        System.out.println(concatAge.apply(upperName,employees.get(0)));
+
+        /*代表int操作*/
+        IntUnaryOperator intBy5 = i -> i + 5;
+        System.out.println(intBy5.applyAsInt(10));
+
+        Consumer<String> c1 = s -> s.toUpperCase();
+        Consumer<String> c2 = s -> System.out.println(s);
+        c1.andThen(c2).accept("hello world");
+
 
 
 //        // 使用Predicate函数接口,接受一个参数,返回一个boolean值.
@@ -70,12 +86,15 @@ public class Main {
 //            System.out.println(randomSuplier.get());
 //        }
 //
-        employees.forEach(employee -> {
-            String lastName = employee.getName().substring(employee.getName().indexOf(' ') + 1);
-            System.out.println("Last name is : " + lastName);
-        });
+//        employees.forEach(employee -> {
+//            String lastName = employee.getName().substring(employee.getName().indexOf(' ') + 1);
+//            System.out.println("Last name is : " + lastName);
+//        });
 
 
+    }
+    private static String getAName(Function<Employee,String> getName, Employee employee) {
+        return getName.apply(employee);
     }
 
 
